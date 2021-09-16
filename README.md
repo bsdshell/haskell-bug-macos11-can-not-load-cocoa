@@ -1,5 +1,5 @@
 # The code is test on Big Sur 11.5.2, 2018 MacBook Pro 15
-# haskell-bug-macos11-can-not-load-opengl
+# haskell-bug-macos11-can-not-load-cocoa
 # See cabal file
 
 # resolver ghc-13.28
